@@ -1,10 +1,10 @@
-# guess-number
+# Game
 Guess the secret number. If your guess is too high or too low, you'll get a hint. 
 When you enter the number you've guessed, the web page should give you feedback of,
--> Correct
--> Too low
--> Too high
--> Not a number
+- [Correct]
+- [Too low]
+- [Too high]
+- [Not a number]
 
 ## Screenshots
 
