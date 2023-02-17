@@ -6,7 +6,7 @@ When you enter the number you've guessed, the web page should give you feedback 
 -> Too high
 -> Not a number
 
-#Screenshot
+## Screenshots
 
 
 <img width="757" alt="Screenshot_20230206_113322" src="https://user-images.githubusercontent.com/103050039/219651250-951f942b-0f16-4d00-8dfb-9f2e96152e5a.png">
